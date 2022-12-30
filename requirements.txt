@@ -1,0 +1,9 @@
+pysiology==0.0.9.6
+scikit-learn
+scipy==1.9.3
+threadpoolctl==3.1.0
+torch==1.13.0
+torchaudio==0.13.0
+torchsampler==0.1.2
+torchvision==0.14.0
+tqdm
